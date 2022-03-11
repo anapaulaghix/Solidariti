@@ -1,0 +1,40 @@
+body {
+    background-color: #FCF6C4;
+    text-align: center;
+}
+button {
+background-color: #F678FF;
+border-radius: 8px;
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+}
+img {
+    position: absolute;
+    left: 50px;
+    top: 30px;
+}
+
+div.abas nav a{
+    width: 100px;
+    padding: 25px;
+    background-color: #F9B9FF;
+    color: black;
+    text-align: center;
+}
+div.abas div{
+    background: white;
+    padding: 10px;
+    display: none;
+}
+div.abas div:target{
+    display: block;
+}
+#home{
+    position: absolute;
+    left: 200px;
+    top: 50px;
+}
