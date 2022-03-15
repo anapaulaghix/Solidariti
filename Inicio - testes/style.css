@@ -17,6 +17,10 @@ img {
     left: 50px;
     top: 30px;
 }
+header {
+     min-height: 150px;
+
+}
 
 p{
     text-align: justify;
